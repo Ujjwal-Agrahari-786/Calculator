@@ -143,7 +143,7 @@ body.light .calculator .clear,
 .calculator .clear {
     grid-column: span 2;
     width: 180px;
-    background: rgb(146, 13, 13);
+    background: #f00;
 }
 
 body.light .calculator .clear::before,
